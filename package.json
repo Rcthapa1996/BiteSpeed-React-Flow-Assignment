@@ -1,0 +1,30 @@
+{
+  "name": "bitespeed",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-flow": "1.0.3",
+    "react-flow-renderer": "10.3.17",
+    "react-scripts": "5.0.1",
+    "reactflow": "11.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
